@@ -155,7 +155,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-03b-Tweening-and-Screen-Shake
-Exercise for MSCH-C220, 22 February 2021
+Exercise for MSCH-C220, 26 February 2021
 
 The second part of an exploration of the "Juice it or Lose it" GDC 2012 presentation in Godot.
 
@@ -169,5 +169,5 @@ Built using Godot 3.2.3
 Music and sound effects; ball trail; shaders; add a face!
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
